@@ -1,0 +1,7 @@
+C:\Users\volantshark\source\BullsandCows\BullsandCows\bin\Debug\BullsandCows.exe.config
+C:\Users\volantshark\source\BullsandCows\BullsandCows\bin\Debug\BullsandCows.exe
+C:\Users\volantshark\source\BullsandCows\BullsandCows\bin\Debug\BullsandCows.pdb
+C:\Users\volantshark\source\BullsandCows\BullsandCows\obj\Debug\BullsandCows.csprojAssemblyReference.cache
+C:\Users\volantshark\source\BullsandCows\BullsandCows\obj\Debug\BullsandCows.csproj.CoreCompileInputs.cache
+C:\Users\volantshark\source\BullsandCows\BullsandCows\obj\Debug\BullsandCows.exe
+C:\Users\volantshark\source\BullsandCows\BullsandCows\obj\Debug\BullsandCows.pdb
